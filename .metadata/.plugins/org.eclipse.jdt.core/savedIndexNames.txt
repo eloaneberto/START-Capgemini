@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Eloane Berto\Desktop\Cursos T.I\START Capgemini\.metadata\.plugins\org.eclipse.jdt.core
+1981633692.index
+2110769446.index
+1865797976.index
+637728474.index
